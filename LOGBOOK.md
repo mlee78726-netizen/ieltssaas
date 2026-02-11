@@ -10,3 +10,4 @@
 - **Fokus-Korrektur**: Atachan hat die Vision vereinfacht. Weg von akademischer Komplexität, hin zum harten Kern.
 - **Doku-Update**: `CORE_PRODUCT.md` erstellt. Fokus: Lernplan, Drills, Vokabel-Motor, IELTS-Skills.
 - **GitHub**: Alles synchronisiert.
+- **Technik-Check**: Sprachnachrichten kommen an, aber die Transkription (STT) benötigt noch einen konfigurierten Dienst (z.B. Deepgram).

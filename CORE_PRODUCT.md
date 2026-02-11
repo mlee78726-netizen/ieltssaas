@@ -1,17 +1,17 @@
-# CORE_PRODUCT.md - Der Kern von IELTS Flow AI
+# CORE_PRODUCT.md - Der Kern von IELTS Flow AI (Refined)
 
-## 🛠️ Das Produkt (Simplified)
-Wir bauen ein hocheffektives Werkzeug, das genau vier Dinge perfekt macht:
+## 🛠️ Das Produkt (Human-Centric)
+Wir bauen einen intelligenten Begleiter, der dein Sprechen auf das nächste Level hebt, ohne dass es sich nach "Schule" anfühlt.
 
-1. **Dynamischer Lernplan**: Kein starrer Kurs. Die App sagt dir jeden Tag, was du tun musst, basierend auf dem, was du gestern konntest.
-2. **Hyper-Personalisierte Drills**: Die Engine generiert Sprech-Übungen, die exakt deine aktuellen Schwachstellen angreifen (z.B. "Benutze Wort X in Satz Y").
-3. **Persönlicher Wortschatz-Motor**: Wir tracken dein Vokabular langfristig. Wörter wandern von "gelesen" zu "aktiv gesprochen".
-4. **IELTS Speaking Skills**: Gezieltes Training für die Kriterien, die in der Prüfung zählen (Kohärenz, Wortschatz-Dichte, Flüssigkeit).
+1. **Intelligenter Lernbegleiter**: Das System lernt, wie du sprichst, und schlägt dir Themen und Übungen vor, die sich für dich relevant anfühlen.
+2. **"The Polish" (Sprach-Veredelung)**: Statt starrer Übungen gibt die KI dir sanfte Impulse, wie du deine bereits guten Antworten noch präziser oder abwechslungsreicher gestalten kannst.
+3. **Persönlicher Ausdrucks-Speicher**: Wir halten fest, welche neuen Ausdrucksweisen du ausprobieren möchtest, und erinnern dich in passenden Momenten daran – so wie ein guter Freund dir ein besseres Wort zuflüstert.
+4. **Natürliches IELTS-Coaching**: Wir trainieren die Prüfungs-Skills (wie man Gedanken logisch verknüpft) in lockeren Gesprächen, nicht in trockenen Tests.
 
 ## 🚀 Leitprinzipien
-- **Kein Overengineering**: Fokus auf Funktionalität und Lern-Erfolg, nicht auf unnötige Features.
-- **Simplest but Powerful**: Das System soll so einfach wie möglich zu bedienen sein, aber maximale Ergebnisse liefern.
-- **Das Sprungbrett**: Die Architektur wird so gebaut, dass wir sie später für jede andere Sprache oder Prüfung nutzen können.
+- **Motivation vor Korrektur**: Der User soll sich immer wohlfühlen. Fachbegriffe wie "Avoidance" bleiben unter der Haube.
+- **Natürlicher Flow**: Wir erzwingen nichts. Wir zeigen Möglichkeiten auf ("Wusstest du, dass du hier auch X sagen könntest?").
+- **Echtes Empowerment**: Es geht darum, dass der User seine eigenen Gedanken kraftvoller ausdrücken kann.
 
 ---
 *Dokumentiert für Atachan - Fokus: Ergebnisse statt Theorie.*
